@@ -1,4 +1,4 @@
-# CahatIO
+# ChatIO
 Chat com Node.js e Socket.IO
 
                                                       Miguel Gabriel B. Dos Santos
